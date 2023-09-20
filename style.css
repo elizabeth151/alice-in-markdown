@@ -1,0 +1,14 @@
+h1 {color:rgb(100, 74, 74)}
+
+img{width: 200px;}
+
+html{max-width: 960px;
+font-size: 16px;
+line-height: 1.25;}
+
+figure{padding: 5%;}
+
+figcaption{font-size: 80%;
+font-family: sans-serif;}
+
+
